@@ -1,0 +1,14 @@
+# a34xub-user 13 TP1A.220624.014 A346MUBU3AWF1 release-keys
+- manufacturer: samsung
+- platform: mt6877
+- codename: a34x
+- flavor: a34xub-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: A346MUBU3AWF1
+- tags: release-keys
+- fingerprint: samsung/a34xub/a34x:12/SP1A.210812.016/A346MUBU3AWF1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a34xub-user-13-TP1A.220624.014-A346MUBU3AWF1-release-keys
+- repo: samsung_a34x_dump
